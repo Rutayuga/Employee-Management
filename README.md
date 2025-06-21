@@ -27,7 +27,6 @@ This is a Java-based Employee Management System designed to handle the essential
 
 This project shows how **runtime polymorphism** works:
 
-![Polymorphism](https://github.com/Rutayuga/Employee-Management/blob/main/polymorphism-diagram.png?raw=true)
 ![Polymorphism](https://github.com/Rutayuga/Employee-Management/blob/9db8e57bca2eb2f1ef86f161698ca9cc9e307e03/src/polymorphism-diagram.png?raw=true)
 
 ```java
